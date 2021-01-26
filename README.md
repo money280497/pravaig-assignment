@@ -5,7 +5,7 @@
 How to run the project ?
 
 
-1) git clone <url>
+1) git clone https://github.com/money280497/pravaig-assignment.git
 	
 	
 2) Navigate inside client folder (root-folder> client)
